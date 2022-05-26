@@ -1,0 +1,25 @@
+﻿MEDILIFE WEB APPLICATION WITH RANDOM FOREST ALGORITHM
+
+HARDWARE REQUIREMENTS:
+	Processor		: Intel (R) Pentium (R)
+	Speed			: 1.6 GHz and Above
+	RAM			: 4 GB and Above
+	Hard Disk		: 120 GB
+	Monitor			: 15’’ LED SVGA
+	Input Devices		: Keyboard, Mouse
+
+SOFTWARE REQUIREMENTS:
+	Operating system	: Windows 7 / 8 / 8.1 / 10.
+	Coding Language		: PYTHON.
+	IDE			: Pycharm.
+	Database		: MySQL 
+
+We must install the Pycharm community version, Wamp server, Annoconda3 plugin. 
+
+Step 1: Our system must meet the minimum requirements of the above mentioned Hardware and Software requirements.
+Step 2: For MySQL database I used WAMP server and after downloaded the desired software copy the attached source code an import the code in the Pycharm community version in annaconda platform.
+Step 3: Beefore excuting the file switch on the WAMP server and open the php my admin page using default browser.
+Step 4: Then login the php page using user name and password while was iven at the time of MySQL installation.
+Step 5: Since we are using the django for executing our fine the above steps are very much important.
+Step 6: Then run the code in the pycharm it will generate the link address for our web application.
+Step 7: After clicking the link it will open our application.
